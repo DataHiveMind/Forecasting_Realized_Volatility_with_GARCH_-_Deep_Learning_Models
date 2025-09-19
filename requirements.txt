@@ -1,0 +1,24 @@
+# Core Data Science Libraries
+numpy 
+pandas 
+matplotlib 
+seaborn
+
+# Machine Learning Libraries
+scikit-learn
+tensorflow
+keras
+xgboost
+lightgbm
+catboost
+
+# Mathematical Libraries
+scipy
+statsmodels
+sympy
+yfinance
+arch
+
+# Utility Libraries
+ipykernel
+
